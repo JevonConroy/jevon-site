@@ -117,7 +117,7 @@
       </p>
 
       <p>
-        Most profile platforms do not provide useful version history, even though professional profiles often serve as a public résumé of record. This part of my website gives me a place to record why, how, and when those revisions were made, without crowding the profiles themselves.
+        Most profile platforms do not provide a version history, even though professional profiles often serve as a public résumé of record. This part of my website gives me a place to record why, how, and when those revisions were made, without crowding the profiles themselves.
       </p>
 
       <p>
@@ -126,6 +126,43 @@
 
       <section class="entry-list" aria-label="Change log entries">
       </section>
+    </header>
+      <h1>Entries</h1>
+      <p class="muted" May 18th, 2026 LinkedIn Profile Pnnotations</p>
+
+    <main>
+      <p>
+        I added several education and early-career updates to my LinkedIn profile.
+      <p>
+
+      <p> 
+        1. Educational Awards
+      </p>
+
+      <p>
+        I added past educational awards to LinkedIn’s Awards and Honors section. I did not add the same items to Avvo because they are education-history items, not legal-profile items.
+      </p>
+
+      <p>
+        2. Past Research Work
+      </p> 
+
+      <p>
+        I added past research work and labeled each item by role. I added a co-author credit to the LinkedIn Publications section. LinkedIn provides a space for a direct URL link.
+      </p>
+
+      <p>
+        I added citations for the research assistant's contributions to the LinkedIn Projects section. PDF links for those are here: “[DC Circuit…]” and “[After Amgen].”
+      </p>
+
+      <p>
+        3. Duke Law Attendance Time Frame
+      </p>
+
+      <p>
+        I kept Duke as one education entry because that is where I completed the J.D. The 2009–2013 range includes time away from school, which matters because my work history overlaps with that period. During enrolled terms, the work was limited to part-time; during time away from school, I was working. The 2009–2013 dates include three semesters away from Duke, all of which occurred after the end of 1L.
+      </p>
+
     </main>
   </div>
 </body>
