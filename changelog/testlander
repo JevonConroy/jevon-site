@@ -113,12 +113,13 @@
       <section class="entry-list" aria-label="Change log entries">
       </section>
     </header>
-      h3 {Entries}
-  margin: 24px 0 8px;
-  font-size: 1rem;
-  line-height: 1.3;
-  font-weight: 650;
-}
+      {h3 
+      margin: 24px 0 8px;
+      font-size: 1rem;
+      line-height: 1.3;
+      font-weight: 650;
+      }
+      <p class="Bold" Entries</p>
       <p class="Bold" May 18th, 2026 LinkedIn Profile Annotations</p>
 
    <main>
@@ -157,7 +158,7 @@
         I added citations for research assistant contributions to the LinkedIn Projects section. PDF links for those are:
         <a href="https://scholarship.law.duke.edu/cgi/viewcontent.cgi?article=5196&amp;context=faculty_scholarship">Cox, J., & Baucom, B. (2012). The Emperor Has No Clothes: Confronting the D.C. Circuit's Usurpation of SEC Rulemaking Authority. Texas Law Review, 90, 1811–1847.</a>
         and
-        <a href="https://scholarship.law.duke.edu/cgi/viewcontent.cgi?article=1066&amp;context=djclpp">Cox, J. (2013). Fraud on the Market After Amgen. Duke Journal of Constitutional Law & Public Policy, 9, 1–30.</a>.
+        <a href="https://scholarship.law.duke.edu/cgi/viewcontent.cgi?article=1066&amp;context=djclpp">Cox, J. (2013). Fraud on the Market After Amgen. Duke Journal of Constitutional Law & Public Policy, 9, 1–30.</a>
       </p>
 
       <h3>3. Duke Law education dates</h3>
