@@ -50,6 +50,13 @@
       font-weight: 650;
     }
 
+    h3 {
+      margin: 24px 0 8px;
+      font-size: 1rem;
+      line-height: 1.3;
+      font-weight: 650;
+    }
+
     p {
       margin: 0 0 14px;
       font-size: 1rem;
@@ -91,13 +98,13 @@
 
     a {
       color: var(--text);
-      text-decoration: none;
+      text-decoration: underline;
+      text-underline-offset: 3px;
     }
 
     a:hover,
     a:focus {
-      text-decoration: underline;
-      text-underline-offset: 3px;
+      text-decoration-thickness: 2px;
     }
   </style>
 </head>
@@ -110,61 +117,53 @@
       <h1>Profile Change Log</h1>
       <p class="muted">Revisions and updates to public professional profile text.</p>
     </header>
+
+    <main>
+      <p>
+        I use this change log to annotate substantive updates to my public professional profiles.
+      </p>
+
+      <p>
+        Why here? Most profile platforms do not provide useful version history, even though professional profiles often serve as a public résumé of record. This part of my website gives me a place to record why, how, and when those revisions were made, without crowding the profiles themselves.
+      </p>
+
+      <p>
+        I work chronologically, keep structure light, and note later substantive revisions separately. I use this page for profile-revision clarity and to help keep the record of revisions durable over time. Finally, I am making profile changes in phases and moving forward chronologically; I anticipate about three phases over six weeks.
+      </p>
+
       <section class="entry-list" aria-label="Change log entries">
+        <article class="entry-summary">
+          <time datetime="2026-05-18">May 18, 2026</time>
+          <h2>LinkedIn profile annotations</h2>
+
+          <p>
+            I added several education and early-career updates to my LinkedIn profile.
+          </p>
+
+          <h3>1. Educational awards</h3>
+          <p>
+            I added past educational awards to LinkedIn’s Awards and Honors section. I did not add the same items to Avvo because they are education-history items, not legal-profile items.
+          </p>
+
+          <h3>2. Past research work</h3>
+          <p>
+            I added past research work and labeled each item by role. I added a co-author credit to the LinkedIn Publications section. LinkedIn provides a space for a direct URL link.
+          </p>
+
+          <p>
+            I added citations for research assistant contributions to the LinkedIn Projects section. PDF links for those are:
+            <a href="https://scholarship.law.duke.edu/cgi/viewcontent.cgi?article=5196&amp;context=faculty_scholarship">Cox, J., &amp; Baucom, B. (2012). The Emperor Has No Clothes: Confronting the D.C. Circuit's Usurpation of SEC Rulemaking Authority. Texas Law Review, 90, 1811–1847.</a>
+            and
+            <a href="https://scholarship.law.duke.edu/cgi/viewcontent.cgi?article=1066&amp;context=djclpp">Cox, J. (2013). Fraud on the Market After Amgen. Duke Journal of Constitutional Law &amp; Public Policy, 9, 1–30.</a>
+          </p>
+
+          <h3>3. Duke Law education dates</h3>
+          <p>
+            I kept Duke as one education entry because that is where I completed the J.D. The 2009–2013 range includes time away from school, which matters because my work history overlaps with that period. During enrolled terms, the work was limited to part-time; during time away from school, I was working. The 2009–2013 dates include three semesters away from Duke, all of which occurred after the end of 1L.
+          </p>
+        </article>
       </section>
-    </header>
-      {h3 
-      margin: 24px 0 8px;
-      font-size: 1rem;
-      line-height: 1.3;
-      font-weight: 650;
-      }
-      <p class="Bold" Entries</p>
-      <p class="Bold" May 18th, 2026 LinkedIn Profile Annotations</p>
-
-   <main>
-  <p>
-    I use this change log to annotate substantive updates to my public professional profiles.
-  </p>
-
-  <p>
-    Why here? Most profile platforms do not provide useful version history, even though professional profiles often serve as a public résumé of record. This part of my website gives me a place to record why, how, and when those revisions were made, without crowding the profiles themselves.
-  </p>
-
-  <p>
-    I work chronologically, keep structure light, and note later substantive revisions separately. I use this page for profile-revision clarity and to help keep the record of revisions durable over time.
-  </p>
-
-  <section class="entry-list" aria-label="Change log entries">
-    <article class="entry-summary">
-      <time datetime="2026-05-18">May 18, 2026</time>
-      <h2>LinkedIn profile annotations</h2>
-
-      <p>
-        I added several education and early-career updates to my LinkedIn profile.
-      </p>
-
-      <h3>1. Educational awards</h3>
-      <p>
-        I added past educational awards to LinkedIn’s Awards and Honors section. I did not add the same items to Avvo because they are education-history items, not legal-profile items.
-      </p>
-
-      <h3>2. Past research work</h3>
-      <p>
-        I added past research work and labeled each item by role. I added a co-author credit to the LinkedIn Publications section. LinkedIn provides a space for a direct URL link.
-      </p>
-
-      <p>
-        I added citations for research assistant contributions to the LinkedIn Projects section. PDF links for those are:
-        <a href="https://scholarship.law.duke.edu/cgi/viewcontent.cgi?article=5196&amp;context=faculty_scholarship">Cox, J., & Baucom, B. (2012). The Emperor Has No Clothes: Confronting the D.C. Circuit's Usurpation of SEC Rulemaking Authority. Texas Law Review, 90, 1811–1847.</a>
-        and
-        <a href="https://scholarship.law.duke.edu/cgi/viewcontent.cgi?article=1066&amp;context=djclpp">Cox, J. (2013). Fraud on the Market After Amgen. Duke Journal of Constitutional Law & Public Policy, 9, 1–30.</a>
-      </p>
-
-      <h3>3. Duke Law education dates</h3>
-      <p>
-        I kept Duke as one education entry because that is where I completed the J.D. The 2009–2013 range includes time away from school, which matters because my work history overlaps with that period. During enrolled terms, the work was limited to part-time; during time away from school, I was working. The 2009–2013 dates include three semesters away from Duke, all of which occurred after the end of 1L.
-      </p>
-    </article>
-  </section>
-</main>
+    </main>
+  </div>
+</body>
+</html>
