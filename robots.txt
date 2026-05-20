@@ -1,3 +1,11 @@
+User-agent: Google-CloudVertexBot
+Allow: /
+
+User-agent: Googlebot
+Allow: /
+
 User-agent: *
 Content-Signal: search=yes, ai-input=yes, ai-train=no
 Allow: /
+
+Sitemap: https://jevonconroy.com/sitemap.xml
